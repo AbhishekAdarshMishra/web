@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Abhishek Adarsh Mishra",
+    "occupation": "Information Technology Student And Freelancer",
+    "description": "Full stack Web and Android Developer ",
+    "image": "imabhishekk.png",
+    "bio": "My name is Abhishek, I'm a Freelance Full Stack Android and Web Developer. Currently I'm an IT Student at KIIT University while also Freelancing ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abhishekmshr063@gmail.com",
+    "phone": "8051179991",
+    "address": {
+      "street": "Kiit Road",
+      "city": "Bhubaneshwar",
+      "state": "Odisha",
+      "zip": "751024"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1ozCHroL_tysLB7AC3L3J0zm80nra64O6/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "linkedin.com/in/abhishek-adarsh-mishra-445125165",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/AbhishekAdarshMishra",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Current student working toward Information Technology Degree. Continuously working hard to upgrade my skills and experience. I have Experience of working with some startup as a intern and Freelancer which gave me real time working scenario and project management skill.",
+    "education": [
+      {
+        "school": "Kalinga Institute Of Industrial Technology,Bhubaneshwar",
+        "degree": "B.tech (Information Technology)",
+        "graduated": "2022",
+        "description": "Current grade till 5th semester = 9.28"
+      }
+    ],
+    "work": [
+      {
+        "company": "Troika Transsolutions Private Limited",
+        "title": "Full Stack Android and Web developer",
+        "years": "Jan 2020 - Mar 2020",
+        "description": "Full Stack Project: RestApi in backend with Android App and Web Application for Frontend , Backend Deployed on AWS (cloud)."
+      },
+      {
+        "company": "Binary Dot",
+        "title": "Team Member , Android App developer",
+        "years": "July 2019 - Sept 2019",
+        "description": "Android App Development: Frontend on Android studio and Integrated with Restful Api."
+      },
+      {
+        "company": "Vibasu Career Accelerator Private Limited",
+        "title": "Android App developer",
+        "years": "May 2019 - July 2020",
+        "description": "Android App Development: Frontend on Android Studio and Integrated with Restful Api"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Data Structure And Algorithm",
+        "level": "80%"
+      },
+      {
+        "name": "Full Stack Web and Android App Development",
+        "level": "60%"
+      },
+      {
+        "name": "React/Node.js/Mongodb",
+        "level": "60%"
+      },
+      {
+        "name": "Git/Linux/Shell",
+        "level": "60%"
+      },
+      {
+        "name": "Flask/Flutter/Wordpress",
+        "level": "50%"
+      },
+      {
+        "name": "ML And DL Basic",
+        "level": "40%"
+      },
+      {
+        "name": "Blockchain Basic",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Uttrakhand Tourism Restroom Management App",
+        "category": "Android App and Web application built with (Html,Css,MongoDB, ExpressJS, NodeJS, Java ,Andoid Studio, XML)",
+        "image": "Uttkprj.png",
+        "url": "https://drive.google.com/file/d/16S7Ieu6BbqOCDQCvKbh4vJbJH3rrxyJM/view?usp=sharing"
+      },
+      {
+        "title": "Digital Visiting Card (Augmented Reality supported) App",
+        "category": "Android App built with (unity 3d, Augmented Reality)",
+        "image": "digitalcrd.png",
+        "url":"https://www.dropbox.com/s/luq07ibjuae9j90/Record_2019-10-31-20-28-34.mp4?dl=0"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "To Whom It May Concern, this is to certify that, Mr Abhishek Adarsh Mishra has worked in BinaryDots Technologies private ltd for the period from 1st-Aug-2019 to 30th-Sept-2019. Over this period, he has participated in development of project FretBox. This project had excellent potential and learning. This project is successfully running online.  Mr Abhishek Adarsh Mishra has worked in my supervision and has shown a good example of learning. He is quick to learn and try new things, very dedicated and disciplined. Certificate = https://drive.google.com/file/d/1-JpFCClT0djdVOHHJ8NdIO8lV2zzbkHc/view?usp=sharing",
+        "user": "Ashish Gupta (Co-founder binary dot)"
+      },
+      {
+        "text": "This is to certify that Abhishek Adarsh Mishra, BTECH student of KIIT University, Bhubaneshwar has successfully completed his internship with VIBASU Career Accelerators Private Limited during the period May 11 2019 to July 10, 2019. During the period, he had worked on Development of Android Application. During the course of internship, Abhishek has shown great amount of responsibility, sincerity and a genuine willingness to learn and zeal to take on new assignments & challenges. In particular, his coordination skills and communication skills are par excellence and her attention to details is impressive. We wish him all the very best for his future. Certificate = https://drive.google.com/file/d/1cqtD-g66v0yZRZz1VSMN1_e8DYRkO9j3/view?usp=sharing",
+        "user": "Vipin Agarwal (Director VIBASU Career Accelerator Private Limited)"
+      }
+    ]
+  }
+}
