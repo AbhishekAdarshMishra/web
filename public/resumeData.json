@@ -93,6 +93,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon clone React.js Website",
+        "category": "React.js and firbase for authentication",
+        "image": "webpage.png",
+        "url": "https://fir-ce7dd.web.app/"
+      },
+      {
         "title": "Uttrakhand Tourism Restroom Management App",
         "category": "Android App and Web application built with (Html,Css,MongoDB, ExpressJS, NodeJS, Java ,Andoid Studio, XML)",
         "image": "Uttkprj.png",
